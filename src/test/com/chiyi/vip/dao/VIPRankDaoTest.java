@@ -21,11 +21,11 @@ public class VIPRankDaoTest {
     private VIPRankDao v;
     @Test
     public void selectAll() {
-        try {
-            List<VIPRankEntity> list =v.selectAll();
-            System.out.println(list.get(1).getName());
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+//        try {
+//            List<VIPRankEntity> list =v.selectAll();
+//            System.out.println(list.get(1).getName());
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
     }
 }
