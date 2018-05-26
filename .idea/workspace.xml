@@ -1,0 +1,1412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="vip:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59df8cb0-8409-4528-a362-c703e5a725ba" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractDao.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/common/AbstractDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VIPRankEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/entity/VIPRankEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-context.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring-context.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/handler/LoginHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="43" column="11" lean-forward="false" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/handler/AbstractHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VIPRankDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/dao/VIPRankDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VIPRankDaoTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/com/chiyi/vip/dao/VIPRankDaoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VIPDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/dao/VIPDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VipHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/handler/VipHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="FxmlFile" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sex</find>
+      <find>check</find>
+      <find>spring-context</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/entity/UserEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/entity/impl/UserFunctionImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/common/AbstractDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/updatepassword.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/function/UserFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/common/ThisSystemException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/function/impl/UserFunctionImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/UserDaoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/dao/VIPDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/handler/vo/VIPVo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/entity/VIPEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/dao/VIPRankDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/listener/ApplicationListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/handler/AbstractHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/VIPRankDaoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/handler/ao/VIPAo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/common/ThisSystemUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/function/VipFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/handler/VipHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/VIPDaoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/function/impl/VipFunctionImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/common/AssertThrowUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/my-login-1.0.0/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/test/com/chiyi/vip/dao/UserDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/test/com/chiyi/common/AbstractDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/handler/LoginHandler.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/com/chiyi/vip/dao/VIPRankDaoTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/software/maven/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chiyi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chiyi" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chiyi" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chiyi" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chiyi" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chiyi" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chiyi" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chiyi" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chiyi" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chiyi" type="462c0819:PsiDirectoryNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="listener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="F:/练习项目资料/seckill" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.chiyi.vip.dao" />
+      <recent name="com.chiyi.common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEA_workspace\vip\src\main\webapp" />
+      <recent name="F:\IDEA_workspace\vip\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chiyi.vip.web.handler" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="com.chiyi.common.AbstractDao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA_workspace\vip\src\main\webapp" />
+      <recent name="F:\IDEA_workspace\vip\src\main\java\com\chiyi\vip\web\handler" />
+      <recent name="F:\IDEA_workspace\vip\src\main\java\com\chiyi\vip\web\listener" />
+      <recent name="F:\IDEA_workspace\vip\src\main\java\com\chiyi\vip\dao" />
+      <recent name="F:\IDEA_workspace\vip\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.vip">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="ThisSystemUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.chiyi.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.chiyi.common.ThisSystemUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="vip" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="VIPRankDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.chiyi.vip.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="vip" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.chiyi.vip.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.chiyi.vip.dao.VIPRankDaoTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="VIPRankDaoTest.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.chiyi.vip.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="vip" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.chiyi.vip.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.chiyi.vip.dao.VIPRankDaoTest" />
+      <option name="METHOD_NAME" value="selectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="vip" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.63" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="vip:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_vip" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62017" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="vip:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.vip" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ThisSystemUtil" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.VIPRankDaoTest.selectAll" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.VIPRankDaoTest" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.VIPRankDaoTest.selectAll" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.VIPRankDaoTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ThisSystemUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59df8cb0-8409-4528-a362-c703e5a725ba" name="Default" comment="" />
+      <created>1526203981657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526203981657</updated>
+      <workItem from="1526203985494" duration="71161000" />
+      <workItem from="1527086251667" duration="6027000" />
+      <workItem from="1527259351200" duration="6696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="VIPRankDaoTest_selectAll - 2018.05.25 at 22h 05m 42s.xml">
+      <configuration name="VIPRankDaoTest.selectAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VIPRankDaoTest_selectAll - 2018.05.25 at 22h 19m 17s.xml">
+      <configuration name="VIPRankDaoTest.selectAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VIPRankDaoTest_selectAll - 2018.05.25 at 22h 19m 55s.xml">
+      <configuration name="VIPRankDaoTest.selectAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VIPRankDaoTest_selectAll - 2018.05.25 at 22h 25m 03s.xml">
+      <configuration name="VIPRankDaoTest.selectAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VIPRankDaoTest_selectAll - 2018.05.25 at 22h 27m 37s.xml">
+      <configuration name="VIPRankDaoTest.selectAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VIPRankDaoTest_selectAll - 2018.05.26 at 15h 45m 08s.xml">
+      <configuration name="VIPRankDaoTest.selectAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VIPRankDaoTest_selectAll - 2018.05.26 at 15h 52m 13s.xml">
+      <configuration name="VIPRankDaoTest.selectAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VIPRankDaoTest_selectAll - 2018.05.26 at 16h 03m 10s.xml">
+      <configuration name="VIPRankDaoTest.selectAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VIPRankDaoTest_selectAll - 2018.05.26 at 16h 04m 45s.xml">
+      <configuration name="VIPRankDaoTest.selectAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VIPRankDaoTest_selectAll - 2018.05.26 at 16h 04m 56s.xml">
+      <configuration name="VIPRankDaoTest.selectAll" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="83884000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39842725" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28702492" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.318125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/function/VipFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.14.RELEASE/spring-web-4.3.14.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <marker date="1526205929328" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1526205929328" expanded="false" signature="162:711" ph="..." />
+            <marker date="1526205929328" expanded="false" signature="1105:1116" ph=" { " />
+            <marker date="1526205929328" expanded="false" signature="1137:1143" ph=" }" />
+            <marker date="1526205929328" expanded="false" signature="1206:1217" ph=" { " />
+            <marker date="1526205929328" expanded="false" signature="1237:1243" ph=" }" />
+            <marker date="1526205929328" expanded="true" signature="1365:1421" ph="{...}" />
+            <marker date="1526205929328" expanded="true" signature="1500:1559" ph="{...}" />
+            <marker date="1526205929328" expanded="true" signature="1669:1728" ph="{...}" />
+            <marker date="1526205929328" expanded="true" signature="1822:1893" ph="{...}" />
+            <marker date="1526205929328" expanded="true" signature="2033:2638" ph="{...}" />
+            <marker date="1526205929328" expanded="true" signature="2788:4133" ph="{...}" />
+            <marker date="1526205929328" expanded="true" signature="4212:4389" ph="{...}" />
+            <marker date="1526205929328" expanded="true" signature="4485:4943" ph="{...}" />
+            <marker date="1526205929328" expanded="true" signature="5008:6165" ph="{...}" />
+            <marker date="1526205929328" expanded="true" signature="6250:6846" ph="{...}" />
+            <marker date="1526205929328" expanded="true" signature="6929:7500" ph="{...}" />
+            <marker date="1526205929328" expanded="true" signature="7560:7893" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/function/impl/VipFunctionImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="69" column="15" lean-forward="false" selection-start-line="69" selection-start-column="15" selection-end-line="69" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/vip/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/my-login-1.0.0/js/my-login.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/my-login-1.0.0/css/my-login.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/my-login-1.0.0/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/my-login-1.0.0/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/my-login.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/bootstrap/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/bootstrap/js/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/bootstrap/js/bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/bootstrap/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/handler/ao/VIPAo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/handler/vo/VIPVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/AdminLTE-2.4.2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-758">
+          <caret line="1174" column="27" lean-forward="false" selection-start-line="1174" selection-start-column="27" selection-end-line="1174" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/AdminLTE-2.4.2/dist/js/pages/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4393">
+          <caret line="194" column="18" lean-forward="false" selection-start-line="194" selection-start-column="18" selection-end-line="194" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/AdminLTE-2.4.2/dist/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="139" column="32" lean-forward="false" selection-start-line="139" selection-start-column="32" selection-end-line="139" selection-end-column="32" />
+          <folding>
+            <marker date="1507566738000" expanded="true" signature="7042:7093" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="7166:7238" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="7282:7334" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="7384:7457" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="7479:7552" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="7855:7906" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="7973:8008" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="8040:8112" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="8134:8206" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="8256:8326" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="8348:8421" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="8728:8779" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="8852:8904" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="8969:9021" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="9071:9144" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="9166:9239" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="9546:9597" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="9670:9722" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="9785:9837" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="9887:9960" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="9982:10055" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="10356:10407" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="10480:10532" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="10591:10643" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="10693:10766" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="10788:10861" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="11164:11215" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="11288:11340" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="11405:11457" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="11507:11580" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="11602:11675" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="12017:12068" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="12141:12213" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="12257:12309" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="12359:12432" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="12454:12527" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="12620:12635" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="12876:12927" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="12994:13029" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="13061:13133" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="13155:13227" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="13277:13350" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="13372:13445" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="13538:13553" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="13798:13849" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="13922:13974" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="14039:14091" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="14141:14214" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="14236:14309" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="14402:14417" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="14662:14713" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="14786:14838" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="14901:14953" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="15003:15076" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="15098:15171" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="15264:15279" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="15518:15569" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="15642:15694" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="15753:15805" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="15855:15928" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="15950:16023" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="16116:16131" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="16372:16423" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="16496:16548" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="16613:16665" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="16715:16788" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="16810:16883" ph="..." />
+            <marker date="1507566738000" expanded="true" signature="16976:16991" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/entity/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/chiyi/vip/dao/UserDaoTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="187" column="0" lean-forward="false" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="85" column="42" lean-forward="false" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/VIPRankDaoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <marker date="1526478229933" expanded="true" signature="276:312" ph="select * fro... vip_rank" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/VIPDaoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <marker date="1526561215070" expanded="true" signature="235:426" ph="insert into vip_detail... " />
+            <marker date="1526561215070" expanded="true" signature="464:683" ph="update vip_detail... " />
+            <marker date="1526561215070" expanded="true" signature="750:805" ph="select count... vip_detail" />
+            <marker date="1526561215070" expanded="true" signature="869:915" ph="select * fro... vip_detail" />
+            <marker date="1526561215070" expanded="true" signature="988:1233" ph="select * fro... vip_detail" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserDaoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1526388063951" expanded="true" signature="288:332" ph="select * fro... sys_user" />
+            <marker date="1526388063951" expanded="true" signature="380:493" ph="update sys_user... " />
+            <marker date="1526388063951" expanded="true" signature="380:501" ph="update sys_user... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.4.RELEASE/spring-core-4.2.4.RELEASE.jar!/org/springframework/util/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/function/impl/UserFunctionImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.2.4.RELEASE/spring-core-4.2.4.RELEASE.jar!/org/springframework/core/io/support/ResourcePatternUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <marker date="1527243783065" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1527243783065" expanded="false" signature="159:289" ph="..." />
+            <marker date="1527243783065" expanded="true" signature="370:377" ph="{}" />
+            <marker date="1527243783065" expanded="true" signature="436:573" ph="{...}" />
+            <marker date="1527243783065" expanded="true" signature="675:1054" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="130" column="0" lean-forward="false" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding>
+            <marker date="1526205929596" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1526205929596" expanded="false" signature="162:1723" ph="..." />
+            <marker date="1526205929596" expanded="true" signature="2337:2543" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="2627:2694" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="2803:3192" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="3253:3387" ph="{...}" />
+            <marker date="1526205929596" expanded="false" signature="3447:3458" ph=" { " />
+            <marker date="1526205929596" expanded="false" signature="3497:3503" ph=" }" />
+            <marker date="1526205929596" expanded="false" signature="3563:3574" ph=" { " />
+            <marker date="1526205929596" expanded="false" signature="3616:3622" ph=" }" />
+            <marker date="1526205929596" expanded="true" signature="3680:3848" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="3894:4720" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="4778:4934" ph="{...}" />
+            <marker date="1526205929596" expanded="false" signature="4981:4992" ph=" { " />
+            <marker date="1526205929596" expanded="false" signature="5016:5022" ph=" }" />
+            <marker date="1526205929596" expanded="false" signature="5074:5085" ph=" { " />
+            <marker date="1526205929596" expanded="false" signature="5097:5103" ph=" }" />
+            <marker date="1526205929596" expanded="true" signature="5170:5368" ph="{...}" />
+            <marker date="1526205929596" expanded="false" signature="5421:5432" ph=" { " />
+            <marker date="1526205929596" expanded="false" signature="5468:5474" ph=" }" />
+            <marker date="1526205929596" expanded="true" signature="5562:5629" ph="{...}" />
+            <marker date="1526205929596" expanded="false" signature="5696:5707" ph=" { " />
+            <marker date="1526205929596" expanded="false" signature="5741:5747" ph=" }" />
+            <marker date="1526205929596" expanded="true" signature="5824:8285" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="8347:8471" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="8566:9227" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="9297:9585" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="9670:9894" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="9925:10110" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE.jar!/org/springframework/context/annotation/ClassPathBeanDefinitionScanner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <marker date="1526205929596" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1526205929596" expanded="false" signature="162:1113" ph="..." />
+            <marker date="1526205929596" expanded="false" signature="1597:1608" ph=" { " />
+            <marker date="1526205929596" expanded="false" signature="1629:1635" ph=" }" />
+            <marker date="1526205929596" expanded="true" signature="1739:1823" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="1952:2085" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="2245:2797" ph="{...}" />
+            <marker date="1526205929596" expanded="false" signature="2852:2863" ph=" { " />
+            <marker date="1526205929596" expanded="false" signature="2884:2890" ph=" }" />
+            <marker date="1526205929596" expanded="true" signature="2981:3114" ph="{...}" />
+            <marker date="1526205929596" expanded="false" signature="3177:3188" ph=" { " />
+            <marker date="1526205929596" expanded="false" signature="3223:3229" ph=" }" />
+            <marker date="1526205929596" expanded="true" signature="3313:3388" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="3464:3608" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="3696:3860" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="3930:4028" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="4106:4177" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="4223:4558" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="4631:6393" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="6496:6757" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="6873:6966" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="7082:7904" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="8006:8203" ph="{...}" />
+            <marker date="1526205929596" expanded="true" signature="8292:8524" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1.jar!/org/mybatis/spring/mapper/ClassPathMapperScanner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <marker date="1526212671858" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1526212671858" expanded="false" signature="149:1257" ph="..." />
+            <marker date="1526212671858" expanded="true" signature="1809:1820" ph=" { " />
+            <marker date="1526212671858" expanded="true" signature="1843:1849" ph=" }" />
+            <marker date="1526212671858" expanded="false" signature="1902:1913" ph=" { " />
+            <marker date="1526212671858" expanded="false" signature="1944:1950" ph=" }" />
+            <marker date="1526212671858" expanded="true" signature="2032:2087" ph="{...}" />
+            <marker date="1526212671858" expanded="false" signature="2149:2160" ph=" { " />
+            <marker date="1526212671858" expanded="false" signature="2199:2205" ph=" }" />
+            <marker date="1526212671858" expanded="true" signature="2281:2340" ph="{...}" />
+            <marker date="1526212671858" expanded="true" signature="2419:2480" ph="{...}" />
+            <marker date="1526212671858" expanded="true" signature="2563:2640" ph="{...}" />
+            <marker date="1526212671858" expanded="true" signature="2721:2796" ph="{...}" />
+            <marker date="1526212671858" expanded="true" signature="2875:2988" ph="{...}" />
+            <marker date="1526212671858" expanded="true" signature="3024:4219" ph="{...}" />
+            <marker date="1526212671858" expanded="true" signature="3374:3510" ph="{...}" />
+            <marker date="1526212671858" expanded="false" signature="3442:3465" ph=" { " />
+            <marker date="1526212671858" expanded="false" signature="3478:3496" ph=" }" />
+            <marker date="1526212671858" expanded="false" signature="3634:3807" ph="match(metadataReader, metadataReaderFactory) → { " />
+            <marker date="1526212671858" expanded="false" signature="3819:3851" ph=" }" />
+            <marker date="1526212671858" expanded="false" signature="3895:4043" ph="match(metadataReader, metadataReaderFactory) → {" />
+            <marker date="1526212671858" expanded="false" signature="4196:4211" ph="}" />
+            <marker date="1526212671858" expanded="true" signature="4289:4681" ph="{...}" />
+            <marker date="1526212671858" expanded="true" signature="4766:7215" ph="{...}" />
+            <marker date="1526212671858" expanded="true" signature="7300:7414" ph="{...}" />
+            <marker date="1526212671858" expanded="true" signature="7501:7843" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/listener/ApplicationListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/software/jdk/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/chiyi/common/AbstractDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/handler/LoginHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="43" column="11" lean-forward="false" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/dao/VIPDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/handler/AbstractHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/web/handler/VipHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/entity/VIPRankEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/vip/dao/VIPRankDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/chiyi/vip/dao/VIPRankDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chiyi/common/AbstractDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>vip:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>vip</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
